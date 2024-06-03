@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=893107&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=JONGHYUK%20CLASS&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejh2311&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejh2311&layout=compact)
 
