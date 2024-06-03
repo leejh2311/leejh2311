@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00)
+![header](https://capsule-render.vercel.app/api?type=rect)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejh2311&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejh2311&show_icons=true&theme=transparent)
 <div></div>
