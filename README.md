@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=rect&color=#B897FF&height=200&section=header&text=JongHyuk%20Class&fontColor=AAAAAA&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=#B897FF&height=200&section=header&text=JongHyuk%20Class&fontColor=aaaaaa&fontSize=50)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejh2311&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejh2311&show_icons=true&theme=transparent)
 <div></div>
