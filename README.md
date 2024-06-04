@@ -31,6 +31,7 @@ https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram
 <!-- Backend -->
 <p><strong>Backend</strong></p>
 <div>
+   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
