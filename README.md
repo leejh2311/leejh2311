@@ -5,9 +5,6 @@
 대학 초반 HTML과 Javascript를 기반으로 웹 Frontend를 만들었으며, <br/>
 현재 4학년 과정에서 Backend와 AI를 공부함으로써 최종적으로 풀스택 개발자 혹은 AI 개발자가 되는것이 목표입니다.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejh2311&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejh2311&layout=compact)
-
 <!--내용 부분-->
 <h3 align="center">✨ Language ✨</h3>
 <div align="center">
@@ -70,7 +67,8 @@
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
     </div>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejh2311&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejh2311&layout=compact)
 <!--
 **leejh2311/leejh2311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
