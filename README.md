@@ -2,7 +2,7 @@
 <!--소개 부분-->
 ## Introduction 
 안녕하세요 IT융합학부 / 컴퓨터정보 보안전공 4학년 학생 이종혁입니다.<br/>
-대학 초반 HTML과 Javascript를 기반으로 웹 Frontend를 만들었으며, 
+대학 초반 HTML과 Javascript를 기반으로 웹 Frontend를 만들었으며, <br/>
 현재 4학년 과정에서 Backend와 AI를 공부함으로써 최종적으로 풀스택 개발자 혹은 AI 개발자가 되는것이 목표입니다.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejh2311&show_icons=true&theme=transparent)
