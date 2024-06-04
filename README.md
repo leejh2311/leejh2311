@@ -6,8 +6,10 @@
 현재 4학년 과정에서 Backend와 AI를 공부함으로써 최종적으로 풀스택 개발자 혹은 AI 개발자가 되는것이 목표입니다.
 
 ## Contect 
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+<a href="mailto:oka1313@gmail.com">
+    <img
+      src="https://img.shields.io/badge/leejh231118@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
 
 <!--내용 부분-->
 <h3 align="center">✨ Language ✨</h3>
