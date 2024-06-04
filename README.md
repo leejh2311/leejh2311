@@ -66,9 +66,12 @@
     <div>
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
     </div>
-
+    
+## State
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejh2311&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejh2311&layout=compact)
+
+
 <!--
 **leejh2311/leejh2311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
