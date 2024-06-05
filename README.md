@@ -5,7 +5,7 @@
 대학 초반 HTML과 Javascript를 기반으로 웹 Frontend를 만들었으며, <br/>
 현재 4학년 과정에서 Backend와 AI를 공부함으로써 최종적으로 풀스택 개발자 혹은 AI 개발자가 되는것이 목표입니다.
 
-## Contect 
+## Contact 
 <a href="https://open.kakao.com/o/sTEbAovg">
     <img
       src="https://img.shields.io/badge/Kakao-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white"/>&nbsp
